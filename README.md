@@ -1,2 +1,2 @@
-# Zindi-Conpetition_2
+# Zindi-Competition_2
 Second Version of First Competion
